@@ -1,0 +1,6 @@
+{
+  "name": "Spatial Architect 3D",
+  "description": "A 3D spatial positioning console for multi-character scene composition, optimized for AI image generation. Features dynamic lighting, camera control, and AI-driven placement optimization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
